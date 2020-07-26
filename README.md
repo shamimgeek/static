@@ -1,2 +1,2 @@
-# static
-Static pipline
+# Jenkins Pipeline on AWS
+
